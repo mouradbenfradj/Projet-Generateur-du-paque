@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1402887800 source:c:\mourad\c\generateur\main.c
+	<pcap.h>
+	"ethernet.h"
+	"ip.h"
+	"arp.h"
+	"icmp.h"
+
+1254874804 c:\wpdpack\include\pcap.h
+	<pcap/pcap.h>
+
+1277455464 c:\wpdpack\include\pcap\pcap.h
+	<pcap-stdinc.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/time.h>
+	<pcap/bpf.h>
+	<stdio.h>
+	<Win32-Extensions.h>
+	<remote-ext.h>
+
+1254874804 c:\wpdpack\include\pcap-stdinc.h
+	<winsock2.h>
+	<fcntl.h>
+	"bittypes.h"
+	<time.h>
+	<io.h>
+	"IP6_misc.h"
+	<stdint.h>
+
+1254874804 c:\wpdpack\include\bittypes.h
+
+1254874798 c:\wpdpack\include\ip6_misc.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1254874804 c:\wpdpack\include\pcap\bpf.h
+
+1155140218 c:\wpdpack\include\win32-extensions.h
+
+1190889136 c:\wpdpack\include\remote-ext.h
+
+1402886362 c:\mourad\c\generateur\tcp.h
+	<pcap.h>
+
+1402887800 c:\mourad\c\generateur\ethernet.h
+	<pcap.h>
+
+1402886514 c:\mourad\c\generateur\ip.h
+	<pcap.h>
+	"udp.h"
+	"tcp.h"
+
+1402862958 c:\mourad\c\generateur\udp.h
+
+1402891822 c:\mourad\c\generateur\arp.h
+	<pcap.h>
+
+1402887446 c:\mourad\c\generateur\icmp.h
+	<pcap.h>
+
